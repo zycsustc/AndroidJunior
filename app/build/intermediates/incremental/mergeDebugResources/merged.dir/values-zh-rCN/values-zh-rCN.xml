@@ -31,11 +31,19 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享对象"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"与<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="android_practice">Android 练习</string>
     <string name="app_name">AndroidClass1</string>
     <string name="bottomsheet_action_expand_halfway">展开到一半高度</string>
-    <string name="button1">按钮1</string>
-    <string name="button2">按钮2</string>
-    <string name="button3">按钮3</string>
+    <string name="button1">按钮 1</string>
+    <string name="button10">按钮 10</string>
+    <string name="button2">按钮 2</string>
+    <string name="button3">按钮 3</string>
+    <string name="button4">按钮 4</string>
+    <string name="button5">按钮 5</string>
+    <string name="button6">按钮 6</string>
+    <string name="button7">按钮 7</string>
+    <string name="button8">按钮 8</string>
+    <string name="button9">按钮 9</string>
     <string name="character_counter_content_description">输入了 %1$d 个字符（上限为 %2$d 个）</string>
     <string name="character_counter_overflowed_content_description">超出字符数限制（共 %1$d 个，上限为 %2$d 个）</string>
     <string name="clear_text_end_icon_content_description">清除文字</string>

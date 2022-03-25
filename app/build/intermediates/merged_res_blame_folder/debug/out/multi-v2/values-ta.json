@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zycsustc/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
                     "source": "/Users/zycsustc/.gradle/caches/transforms-3/8aa9a48ab309a6058d7da29b6c5a2179/transformed/core-1.7.0/res/values-ta/values-ta.xml",
