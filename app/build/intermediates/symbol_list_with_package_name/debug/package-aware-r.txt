@@ -2452,6 +2452,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable github
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2722,6 +2723,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id image_github
 id immediateStop
 id included
 id info
@@ -2745,6 +2747,7 @@ id line3
 id linear
 id listMode
 id list_item
+id login_button
 id masked
 id match_constraint
 id match_parent
@@ -2880,6 +2883,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signup_button
 id sin
 id skipCollapsed
 id skipped
@@ -3070,6 +3074,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout constraint_layout
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3161,6 +3166,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu example_menu
 menu example_menu2
+mipmap github
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3216,9 +3222,12 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string github
+string hello
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string login
 string m3_ref_typeface_brand_display_regular
 string m3_ref_typeface_brand_medium
 string m3_ref_typeface_brand_regular
@@ -3306,6 +3315,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string signup
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

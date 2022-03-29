@@ -9,11 +9,17 @@ color teal_200
 color teal_700
 color white
 dimen button_height
+drawable github
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id image_github
+id login_button
+id signup_button
 layout activity_main
+layout constraint_layout
 layout frame_layout
 layout linear_layout
+mipmap github
 mipmap ic_launcher
 mipmap ic_launcher_round
 string android_practice
@@ -28,4 +34,8 @@ string button6
 string button7
 string button8
 string button9
+string github
+string hello
+string login
+string signup
 style Theme.MyApplication
