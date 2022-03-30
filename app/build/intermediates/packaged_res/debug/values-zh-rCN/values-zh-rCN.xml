@@ -12,8 +12,13 @@
     <string name="button7">按钮 7</string>
     <string name="button8">按钮 8</string>
     <string name="button9">按钮 9</string>
+    <string name="forget_password">忘记密码?</string>
     <string name="github">Github</string>
     <string name="hello">你好!</string>
     <string name="login">登陆</string>
+    <string name="logo">logo</string>
+    <string name="password">密码</string>
+    <string name="remember_me">记住我</string>
     <string name="signup">注册</string>
+    <string name="username">用户名</string>
 </resources>

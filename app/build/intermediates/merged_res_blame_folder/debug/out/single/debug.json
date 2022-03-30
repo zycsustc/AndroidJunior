@@ -4,24 +4,24 @@
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-xxxhdpi/github.png"
     },
     {
-        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-hdpi_github.png.flat",
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-hdpi/github.png"
+    },
+    {
+        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-mdpi_github.png.flat",
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-mdpi/github.png"
     },
     {
-        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/layout_linear_layout.xml.flat",
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/layout/linear_layout.xml"
+    },
+    {
+        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",

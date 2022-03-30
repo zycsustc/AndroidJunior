@@ -12,7 +12,6 @@
     <dimen name="edit_text_border_radius">8dp</dimen>
     <string name="android_practice">Android practice</string>
     <string name="app_name">AndroidClass</string>
-    <string name="aware">aware</string>
     <string name="button1">button 1</string>
     <string name="button10">button 10</string>
     <string name="button2">button 2</string>
@@ -23,13 +22,16 @@
     <string name="button7">button 7</string>
     <string name="button8">button 8</string>
     <string name="button9">button 9</string>
+    <string name="forget_password">Forget password?</string>
     <string name="github">Github</string>
     <string name="hello">Hello!</string>
     <string name="login">Login</string>
+    <string name="logo">logo</string>
     <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
     <string name="signup">Signup</string>
     <string name="username">Username</string>
-    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>

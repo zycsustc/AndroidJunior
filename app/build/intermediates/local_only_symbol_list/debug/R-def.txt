@@ -15,6 +15,7 @@ drawable edit_text_border
 drawable github
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id checkbox
 id edit_text_password
 id edit_text_username
 id image_github
@@ -31,7 +32,6 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string android_practice
 string app_name
-string aware
 string button1
 string button10
 string button2
@@ -42,10 +42,13 @@ string button6
 string button7
 string button8
 string button9
+string forget_password
 string github
 string hello
 string login
+string logo
 string password
+string remember_me
 string signup
 string username
 style Theme.MyApplication
