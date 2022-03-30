@@ -55,5 +55,6 @@
         android:backgroundTint="@color/gray"
         android:text="@string/login"
         android:textAllCaps="false"
-        android:textSize="24sp"/>
+        android:textSize="24sp"
+        android:onClick="onLoginClick"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

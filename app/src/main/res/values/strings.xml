@@ -15,4 +15,7 @@
     <string name="github">Github</string>
     <string name="signup">Signup</string>
     <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logo">logo</string>
 </resources>

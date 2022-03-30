@@ -36,6 +36,10 @@
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/drawable_aware.png.flat",
+        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/drawable/aware.png"
+    },
+    {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
@@ -72,6 +76,10 @@
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/layout/activity_login.xml"
+    },
+    {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/layout/activity_main.xml"
     },
@@ -82,6 +90,10 @@
     {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/drawable_edit_text_border.xml.flat",
+        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/drawable/edit_text_border.xml"
     },
     {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/drawable_github.png.flat",
