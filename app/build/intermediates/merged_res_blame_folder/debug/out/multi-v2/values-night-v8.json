@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zycsustc/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
-                {
-                    "source": "/Users/zycsustc/AndroidStudioProjects/MyApplication/app/src/main/res/values-night/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "822"
-                    },
-                    "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3386",
-                        "endLines": "45",
-                        "endColumns": "12",
-                        "endOffsets": "4106"
-                    }
-                },
                 {
                     "source": "/Users/zycsustc/.gradle/caches/transforms-3/b0f0db3c71af0ae3c77196707cdd85cf/transformed/material-1.5.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
@@ -37,6 +18,25 @@
                         "startOffsets": "732,807,918,1007,1108,1215,1322,1421,1524,1612,1736,1838,1940,2056,2158,2272,2400,2516,2638,2774,2894,3028,3148,3260,4200,4317,4441,4571,4693,4831,4965,5081",
                         "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
                         "endOffsets": "802,913,1002,1103,1210,1317,1416,1519,1607,1731,1833,1935,2051,2153,2267,2395,2511,2633,2769,2889,3023,3143,3255,3381,4312,4436,4566,4688,4826,4960,5076,5196"
+                    }
+                },
+                {
+                    "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "822"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3386",
+                        "endLines": "45",
+                        "endColumns": "12",
+                        "endOffsets": "4106"
                     }
                 },
                 {
