@@ -21,4 +21,8 @@
     <string name="logo">logo</string>
     <string name="remember_me">记住我</string>
     <string name="forget_password">忘记密码?</string>
+    <string name="or_connect_with">或使用第三方登陆</string>
+    <string name="facebook">facebook</string>
+    <string name="twitter">twitter</string>
+    <string name="sign_up_with_e_mail">使用邮箱注册</string>
 </resources>
