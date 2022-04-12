@@ -62,7 +62,7 @@ open class MainActivity : AppCompatActivity() {
             val cursor: Cursor = contentResolver.query(data.data!!,
                 arrayOf("display_name", "data1"), null, null, null)!!
 
-            val dialogBuilder = AlertDialog.Builder(this)
+            val dialogBuilder = AlertDialog.Builder(this).setCancelable(false)
 
             cursor.moveToNext()
 
