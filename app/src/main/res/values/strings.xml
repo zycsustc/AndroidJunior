@@ -24,4 +24,5 @@
     <string name="facebook">facebook</string>
     <string name="twitter">twitter</string>
     <string name="sign_up_with_e_mail">Sign Up with E-mail</string>
+    <string name="pick_contact">pick_contact</string>
 </resources>

@@ -48,9 +48,10 @@
                 android:layout_marginVertical="10dp"
                 android:height="@dimen/button_height"
                 android:backgroundTint="@color/gray"
-                android:text="@string/button3"
+                android:text="@string/pick_contact"
                 android:textAllCaps="false"
-                android:textColor="@color/black" />
+                android:textColor="@color/black"
+                android:onClick="onPickContactClick"/>
 
             <Button
                 android:layout_width="match_parent"

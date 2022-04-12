@@ -11,10 +11,15 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        setContentView(R.layout.constraint_layout)
+        setContentView(R.layout.frame_layout)
     }
 
     fun onLoginClick(view: View) {
+        val intent = Intent(this, LoginActivity::class.java)
+        startActivity(intent)
+    }
+
+    fun onPickContactClick(view: View) {
         val intent = Intent(this, LoginActivity::class.java)
         startActivity(intent)
     }
