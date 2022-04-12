@@ -5,9 +5,8 @@ import android.database.Cursor
 import android.net.Uri
 import android.os.Bundle
 import android.provider.ContactsContract
-import android.util.Log
 import android.view.View
-import android.widget.Toast
+import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 
 open class MainActivity : AppCompatActivity() {
@@ -63,6 +62,8 @@ open class MainActivity : AppCompatActivity() {
             val cursor: Cursor = contentResolver.query(data.data!!,
                 arrayOf("display_name", "data1"), null, null, null)!!
 
+            val dialogBuilder = AlertDialog.Builder(this)
+
             cursor.moveToNext()
 
             val contactName: String =
@@ -73,7 +74,7 @@ open class MainActivity : AppCompatActivity() {
 
             cursor.close()
 
-            Toast.makeText(this, "$contactName $phoneNum", Toast.LENGTH_LONG).show()
+            dialogBuilder.setMessage(contactName).setTitle(phoneNum).setNegativeButton("OK", null).show()
         }
     }
 }
