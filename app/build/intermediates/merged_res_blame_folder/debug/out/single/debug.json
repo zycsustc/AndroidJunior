@@ -16,12 +16,12 @@
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-mdpi/github.png"
     },
     {
-        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/layout_linear_layout.xml.flat",
-        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/layout/linear_layout.xml"
-    },
-    {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/layout_linear_layout.xml.flat",
+        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/layout/linear_layout.xml"
     },
     {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
@@ -108,12 +108,12 @@
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/drawable/twitter.png"
     },
     {
-        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/drawable_github.png.flat",
-        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/drawable/github.png"
-    },
-    {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/drawable_white_round_button_border.xml.flat",
         "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/drawable/white_round_button_border.xml"
+    },
+    {
+        "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/drawable_github.png.flat",
+        "source": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/src/main/res/drawable/github.png"
     },
     {
         "merged": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",

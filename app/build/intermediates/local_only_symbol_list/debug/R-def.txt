@@ -44,6 +44,7 @@ layout linear_layout
 mipmap github
 mipmap ic_launcher
 mipmap ic_launcher_round
+string add_contact
 string android_practice
 string app_name
 string button1
@@ -64,6 +65,7 @@ string login
 string logo
 string or_connect_with
 string password
+string pick_contact
 string remember_me
 string sign_up_with_e_mail
 string signup
