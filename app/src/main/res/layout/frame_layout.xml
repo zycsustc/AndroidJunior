@@ -38,7 +38,8 @@
                 android:layout_marginVertical="10dp"
                 android:height="@dimen/button_height"
                 android:backgroundTint="@color/gray"
-                android:text="@string/button2"
+                android:onClick="onLoginClick"
+                android:text="@string/login"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
 
@@ -48,10 +49,10 @@
                 android:layout_marginVertical="10dp"
                 android:height="@dimen/button_height"
                 android:backgroundTint="@color/gray"
-                android:text="@string/pick_contact"
+                android:onClick="onAddContactClick"
+                android:text="@string/add_contact"
                 android:textAllCaps="false"
-                android:textColor="@color/black"
-                android:onClick="onPickContactClick"/>
+                android:textColor="@color/black" />
 
             <Button
                 android:layout_width="match_parent"

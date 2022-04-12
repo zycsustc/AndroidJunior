@@ -25,5 +25,5 @@
     <string name="facebook">facebook</string>
     <string name="twitter">twitter</string>
     <string name="sign_up_with_e_mail">使用邮箱注册</string>
-    <string name="pick_contact">选取联系人</string>
+    <string name="add_contact">添加联系人</string>
 </resources>
