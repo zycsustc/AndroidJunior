@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_contact">添加联系人</string>
     <string name="android_practice">Android 练习</string>
     <string name="app_name">AndroidClass</string>
     <string name="button1">按钮 1</string>
@@ -20,6 +21,7 @@
     <string name="logo">logo</string>
     <string name="or_connect_with">或使用第三方登陆</string>
     <string name="password">密码</string>
+    <string name="pick_contact">选取联系人</string>
     <string name="remember_me">记住我</string>
     <string name="sign_up_with_e_mail">使用邮箱注册</string>
     <string name="signup">注册</string>

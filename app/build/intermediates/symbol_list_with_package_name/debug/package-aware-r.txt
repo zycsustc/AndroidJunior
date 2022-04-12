@@ -3218,6 +3218,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string add_contact
 string android_practice
 string androidx_startup
 string app_name
@@ -3340,6 +3341,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string pick_contact
 string remember_me
 string search_menu_title
 string sign_up_with_e_mail

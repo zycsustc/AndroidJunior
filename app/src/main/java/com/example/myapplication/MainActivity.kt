@@ -2,14 +2,17 @@ package com.example.myapplication
 
 import android.content.Intent
 import android.database.Cursor
+import android.net.Uri
 import android.os.Bundle
 import android.provider.ContactsContract
+import android.util.Log
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 open class MainActivity : AppCompatActivity() {
     private val ADD_CONTACT_REQUEST = 1
+    private val PICK_CONTACT_REQUEST = 2
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -46,15 +49,17 @@ open class MainActivity : AppCompatActivity() {
         startActivityForResult(intent, ADD_CONTACT_REQUEST)
     }
 
+    fun onPickContactClick(view: View) {
+        startActivityForResult(Intent(Intent.ACTION_PICK,
+            Uri.parse("content://contacts"))
+            .addCategory(Intent.CATEGORY_DEFAULT)
+            .setType("vnd.android.cursor.dir/phone_v2"), PICK_CONTACT_REQUEST)
+    }
+
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
 
-        print("get result")
-
-        if (requestCode == ADD_CONTACT_REQUEST && resultCode == RESULT_OK && data != null) {
-
-            print("get result data")
-
+        if (requestCode == PICK_CONTACT_REQUEST && resultCode == RESULT_OK && data != null) {
             val cursor: Cursor = contentResolver.query(data.data!!,
                 arrayOf("display_name", "data1"), null, null, null)!!
 
@@ -68,8 +73,7 @@ open class MainActivity : AppCompatActivity() {
 
             cursor.close()
 
-            Toast.makeText(this, "$contactName $phoneNum", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "$contactName $phoneNum", Toast.LENGTH_LONG).show()
         }
-
     }
 }

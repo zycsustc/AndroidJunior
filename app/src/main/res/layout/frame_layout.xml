@@ -24,17 +24,6 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="30dp"
-                android:layout_marginBottom="10dp"
-                android:height="@dimen/button_height"
-                android:backgroundTint="@color/gray"
-                android:text="@string/button1"
-                android:textAllCaps="false"
-                android:textColor="@color/black" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:layout_marginVertical="10dp"
                 android:height="@dimen/button_height"
                 android:backgroundTint="@color/gray"
@@ -58,6 +47,18 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginVertical="10dp"
+                android:height="@dimen/button_height"
+                android:backgroundTint="@color/gray"
+                android:text="@string/pick_contact"
+                android:textAllCaps="false"
+                android:onClick="onPickContactClick"
+                android:textColor="@color/black" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
                 android:height="@dimen/button_height"
                 android:backgroundTint="@color/gray"
                 android:text="@string/button4"
