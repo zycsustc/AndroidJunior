@@ -74,7 +74,7 @@ open class MainActivity : AppCompatActivity() {
 
             cursor.close()
 
-            dialogBuilder.setMessage(contactName).setTitle(phoneNum).setNegativeButton("OK", null).show()
+            dialogBuilder.setMessage(phoneNum).setTitle(contactName).setNegativeButton("OK", null).show()
         }
     }
 }
