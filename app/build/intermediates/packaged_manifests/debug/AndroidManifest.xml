@@ -25,6 +25,9 @@
             android:name="com.example.myapplication.LoginActivity"
             android:exported="false" />
         <activity
+            android:name="com.example.myapplication.MyFragmentActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.myapplication.MainActivity"
             android:exported="true" >
             <intent-filter>
