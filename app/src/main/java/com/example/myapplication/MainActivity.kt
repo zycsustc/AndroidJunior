@@ -19,12 +19,12 @@ open class MainActivity : AppCompatActivity() {
         setContentView(R.layout.frame_layout)
     }
 
-    fun onLoginClick(view: View) {
+    fun onLoginBTNClick(view: View) {
         val intent = Intent(this, LoginActivity::class.java)
         startActivity(intent)
     }
 
-    fun onAddContactClick(view: View) {
+    fun onAddContactBTNClick(view: View) {
         val intent = Intent(ContactsContract.Intents.Insert.ACTION).apply {
             // Sets the MIME type to match the Contacts Provider
             type = ContactsContract.RawContacts.CONTENT_TYPE
@@ -48,11 +48,16 @@ open class MainActivity : AppCompatActivity() {
         startActivityForResult(intent, ADD_CONTACT_REQUEST)
     }
 
-    fun onPickContactClick(view: View) {
+    fun onPickContactBTNClick(view: View) {
         startActivityForResult(Intent(Intent.ACTION_PICK,
             Uri.parse("content://contacts"))
             .addCategory(Intent.CATEGORY_DEFAULT)
             .setType("vnd.android.cursor.dir/phone_v2"), PICK_CONTACT_REQUEST)
+    }
+
+    fun onFragmentBTNClick(view: View) {
+        val intent = Intent(this, MyFragmentActivity::class.java)
+        startActivity(intent)
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {

@@ -1212,6 +1212,7 @@ color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color blue
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -2596,6 +2597,7 @@ id aligned
 id all
 id allStates
 id always
+id androidButton
 id animateToEnd
 id animateToStart
 id antiClockwise
@@ -2753,6 +2755,7 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id javaButton
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -3093,6 +3096,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_fragment
 layout activity_login
 layout activity_main
 layout constraint_layout
@@ -3112,6 +3116,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_android
+layout fragment_java
 layout frame_layout
 layout linear_layout
 layout m3_alert_dialog
@@ -3219,6 +3225,8 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string add_contact
+string android
+string android_context
 string android_practice
 string androidx_startup
 string app_name
@@ -3235,6 +3243,7 @@ string button6
 string button7
 string button8
 string button9
+string change
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
@@ -3246,11 +3255,14 @@ string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string facebook
 string forget_password
+string fragment
 string github
 string hello
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string java
+string java_context
 string login
 string logo
 string m3_ref_typeface_brand_display_regular

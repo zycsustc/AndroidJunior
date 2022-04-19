@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zycsustc/Documents/GitHub/AndroidJunior/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "/Users/zyc/Documents/GitHub/AndroidJunior/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/Users/zycsustc/.gradle/caches/transforms-3/93e1856551d2ec97497f45549ad44355/transformed/appcompat-1.4.1/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "/Users/zyc/.gradle/caches/transforms-3/93e1856551d2ec97497f45549ad44355/transformed/appcompat-1.4.1/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
